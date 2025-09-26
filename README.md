@@ -36,7 +36,7 @@ The goal was to improve accuracy in forecasting temperature values by leveraging
 ## ⚙️ Installation
 Clone this repository:
 
-git clone https://github.com/vedant2606/Weather_Forecasting_New_Zealand-LSTM_ARIMA.git
+git clone https://github.com/Vedant2606/Weather_Forecasting_New_Zealand-LSTM_ARIMA.git
 
 ## Create and activate a virtual environment:
 
