@@ -5,7 +5,7 @@ This project implements a **hybrid weather prediction model** combining:
 - **LSTM (Long Short-Term Memory)** for capturing short-term, high-frequency patterns using hourly data.
 - **ARIMA (AutoRegressive Integrated Moving Average)** for modeling long-term trends using monthly aggregated data.
 
-The goal is to improve accuracy in forecasting temperature values by leveraging the strengths of both deep learning and statistical time-series approaches.
+The goal was to improve accuracy in forecasting temperature values by leveraging the strengths of both deep learning and statistical time-series approaches.
 
 ---
 
